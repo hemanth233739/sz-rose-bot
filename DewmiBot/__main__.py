@@ -66,16 +66,16 @@ from DewmiBot.modules.system_stats import bot_sys_stats
 import DewmiBot.modules.sql.users_sql as sql
 
 PM_START_TEXT = f"""
-✨Hello There , I'm szrosebot
+✨Hello There , I'm Lugia
 An anime - Themed advanced telegram Group management 
 Bot For help You Manage & Protect Your Groups.
 ➼ `{sql.num_users()}` *Users*
 ➼ `{sql.num_chats()}`  *Chats*
-♻️Maintained by [supunma <sz/>](https://t.me/szteambots)
+😎Maintained by [🕊ʜɢ [ᴛᴇᴀᴍ ᴍᴏɴꜱᴛᴇʀ](https://t.me/HEMANTHGAMING1K)
 """
 
 HELP_STRINGS = f"""
-✨Hello There , I'm szrosebot
+✨Hello There , I'm Lugia
 An anime - Themed advanced telegram Group management
 Bot For help You Manage & Protect Your Groups.
 **General commands**:
